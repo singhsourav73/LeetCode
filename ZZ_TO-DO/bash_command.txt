@@ -1,0 +1,10 @@
+ 1. echo $0
+ 2. pwd
+ 3. ls -al
+ 4. mkdir
+ 5. cd
+ 6. rmdir
+ 7. touch
+ 8. rm
+ 9. cp
+ 10. 
